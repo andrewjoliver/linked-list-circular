@@ -1,4 +1,4 @@
-class Solution{
+class LinkedListCreation{
 	static class Node{
 		int data;
 		Node next;
