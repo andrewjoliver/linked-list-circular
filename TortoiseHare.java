@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 class LinkedListCreation{
 	static class Node{
 		int data;
